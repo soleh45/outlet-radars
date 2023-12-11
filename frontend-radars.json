@@ -1,0 +1,30 @@
+[
+  {
+    "name": "NodeJs",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Deployment Notes",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "POS Mobile",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "React Native",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": ""
+  }
+]
